@@ -2,4 +2,4 @@
 
 <hr>
 
-<p>ALista de Stages do projeto CRE.</p>
+<p>Lista de Stages do projeto CRE.</p>

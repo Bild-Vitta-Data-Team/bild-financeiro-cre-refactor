@@ -22,7 +22,7 @@
 - [ ] STG_ARQ_PARAM;
 - [ ] STG_ARQ_INDICE;
 - [ ] STG_ARQ_OCORRENCIA;
-- [x] STG_ARQ_REGIONAIS;
+- [ ] STG_ARQ_REGIONAIS;
 
 **Oracle Fonte Principal**
 
@@ -68,5 +68,5 @@
 - [ ] STG_SYS_T_ETAPA_VENDA;
 - [ ] STG_SYS_T_STATUS_REPASSE;
 - [ ] STG_SYS_T_USO;
-- [ ] STG_SYS_T_VENDAS;
+- [x] STG_SYS_T_VENDAS;
 - [ ] STG_SYS_UNIDADE;

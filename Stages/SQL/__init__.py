@@ -1,0 +1,19 @@
+from .DatabaseSelects import (
+    AGENTES,
+    BOLETAGEM,
+    CONTRATO_CLIENTE,
+    CLASSIFICACAO_CONTRATO,
+    PARCELA_RECEITA,
+    RENEGOCIACAO_PAR,
+    VENDAS
+)
+
+__all__ = [
+    "AGENTES",
+    "BOLETAGEM",
+    "CONTRATO_CLIENTE",
+    "CLASSIFICACAO_CONTRATO",
+    "PARCELA_RECEITA",
+    "RENEGOCIACAO_PAR",
+    "VENDAS"
+]
